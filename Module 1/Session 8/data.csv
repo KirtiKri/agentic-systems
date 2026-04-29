@@ -1,0 +1,6 @@
+order_id,customer_id,product,city,amount,ship_date
+1,C01,Widget A, New York,100.0,2024-01-10
+2,C02,Widget B,,50.5,2024-01-11
+3,C01,Widget A, New York,,2024-01-12
+4,C03,Widget C, Los Angeles,200.0,2024-01-13
+5,C02,Widget B, Mumbai,75.0,2024-01-14
